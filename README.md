@@ -105,8 +105,8 @@ print(f"{result['sentiment']}: {result['confidence']:.1%}")
 ## 🎓 Course Assignment
 
 **Assignment**: Fine-Tuning Large Language Models  
-**Date**: [Your Date]  
-**Author**: [Your Name]
+**Date**: 10/23/2025
+
 
 ---
 
